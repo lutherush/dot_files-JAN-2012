@@ -1,0 +1,18 @@
+music_directory       "/home/lutherus/Music"         # Your music dir.
+playlist_directory    "~/.mpd/playlists"
+db_file               "~/.mpd/mpd.db"
+log_file              "~/.mpd/mpd.log"
+pid_file              "~/.mpd/mpd.pid"
+state_file            "~/.mpd/mpdstate"
+#user                  "lutherus"
+audio_output { 
+         type                    "alsa"
+         name                    "My ALSA Device"
+         device                  "hw:0,0"     # optional
+         format                  "44100:16:2" # optional
+}
+
+# Binding to address and port causing problems in mpd-0.14.2 best to leave
+# commented.
+# bind_to_address       "127.0.0.1"
+#port

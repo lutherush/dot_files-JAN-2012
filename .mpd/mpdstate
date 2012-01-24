@@ -1,0 +1,74 @@
+sw_volume: 99
+audio_device_state:1:My ALSA Device
+audio_device_state:1:my_fifo
+state: stop
+current: 26
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: nan
+playlist_begin
+0:Amorphis /2006 - Eclipse/01 - Two Moons.mp3
+1:Amorphis /2006 - Eclipse/02 - House Of Sleep.mp3
+2:Amorphis /2006 - Eclipse/03 - Leaves Scar.mp3
+3:Amorphis /2006 - Eclipse/04 - Born From Fire.mp3
+4:Amorphis /2006 - Eclipse/05 - Under A Soil And Black Stone.mp3
+5:Amorphis /2006 - Eclipse/06 - Perkele (The God Of Fire).mp3
+6:Amorphis /2006 - Eclipse/07 - The Smoke.mp3
+7:Amorphis /2006 - Eclipse/08 - Same Flesh.mp3
+8:Amorphis /2006 - Eclipse/09 - Brother Moon.mp3
+9:Amorphis /2006 - Eclipse/10 - Empty Opening.mp3
+10:Amorphis /2006 - Eclipse/11 - Stone Woman (bonus track).mp3
+11:Amorphis /2007 - Silent Waters/01 - Weaving The Incantation.mp3
+12:Amorphis /2007 - Silent Waters/02 - A Servant.mp3
+13:Amorphis /2007 - Silent Waters/03 - Silent Waters.mp3
+14:Amorphis /2007 - Silent Waters/04 - Towards And Against.mp3
+15:Amorphis /2007 - Silent Waters/05 - I Of Crimson Blood.mp3
+16:Amorphis /2007 - Silent Waters/06 - Her Alone.mp3
+17:Amorphis /2007 - Silent Waters/07 - Enigma.mp3
+18:Amorphis /2007 - Silent Waters/08 - Shaman.mp3
+19:Amorphis /2007 - Silent Waters/09 - The White Swan.mp3
+20:Amorphis /2007 - Silent Waters/10 - Black River.mp3
+21:Amorphis /2007 - Silent Waters/11 - Sign.mp3
+22:Amorphis /2009 - Skyforger/01 - Sampo.mp3
+23:Amorphis /2009 - Skyforger/02 - Silver Bride.mp3
+24:Amorphis /2009 - Skyforger/03 - From The Heaven Of My Heart.mp3
+25:Amorphis /2009 - Skyforger/04 - Sky Is Mine.mp3
+26:Amorphis /2009 - Skyforger/05 - Majestic Beast.mp3
+27:Amorphis /2009 - Skyforger/06 - My Sun.mp3
+28:Amorphis /2009 - Skyforger/07 - Highest Star.mp3
+29:Amorphis /2009 - Skyforger/08 - Skyforger.mp3
+30:Amorphis /2009 - Skyforger/09 - Course Of Fate.mp3
+31:Amorphis /2009 - Skyforger/10 - From Earth I Rose.mp3
+32:Amorphis /2009 - Skyforger/11 - Godlike Machine (Limited Edition Bonus Track).mp3
+33:Amorphis - The Beginning Of Times (2011)/01-amorphis-battle_for_light.mp3
+34:Amorphis - The Beginning Of Times (2011)/02-amorphis-mermaid.mp3
+35:Amorphis - The Beginning Of Times (2011)/03-amorphis-my_enemy.mp3
+36:Amorphis - The Beginning Of Times (2011)/04-amorphis-you_i_need.mp3
+37:Amorphis - The Beginning Of Times (2011)/05-amorphis-song_of_the_sage.mp3
+38:Amorphis - The Beginning Of Times (2011)/06-amorphis-three_words.mp3
+39:Amorphis - The Beginning Of Times (2011)/07-amorphis-reformation.mp3
+40:Amorphis - The Beginning Of Times (2011)/08-amorphis-soothsayer.mp3
+41:Amorphis - The Beginning Of Times (2011)/09-amorphis-on_a_stranded_shore.mp3
+42:Amorphis - The Beginning Of Times (2011)/10-amorphis-escape.mp3
+43:Amorphis - The Beginning Of Times (2011)/11-amorphis-crack_in_a_stone.mp3
+44:Amorphis - The Beginning Of Times (2011)/12-amorphis-beginning_of_time.mp3
+45:Amorphis - The Beginning Of Times (2011)/13-amorphis-hearts_song_(bonus_track).mp3
+46:Amorphis /1994 - Tales From The Thousand Lakes/01 - Thousand Lakes.mp3
+47:Amorphis /1994 - Tales From The Thousand Lakes/02 - Into Hiding.mp3
+48:Amorphis /1994 - Tales From The Thousand Lakes/03 - The Castaway.mp3
+49:Amorphis /1994 - Tales From The Thousand Lakes/04 - First Doom.mp3
+50:Amorphis /1994 - Tales From The Thousand Lakes/05 - Black Winter Day.mp3
+51:Amorphis /1994 - Tales From The Thousand Lakes/06 - Drowned Maid.mp3
+52:Amorphis /1994 - Tales From The Thousand Lakes/07 - In The Beginning.mp3
+53:Amorphis /1994 - Tales From The Thousand Lakes/08 - Forgotten Sunrise.mp3
+54:Amorphis /1994 - Tales From The Thousand Lakes/09 - To Father's Cabin.mp3
+55:Amorphis /1994 - Tales From The Thousand Lakes/10 - Magic And Mayhem.mp3
+56:Amorphis /1994 - Tales From The Thousand Lakes/11 - Folk Of The North.mp3
+57:Amorphis /1994 - Tales From The Thousand Lakes/12 - Moon And Sun.mp3
+58:Amorphis /1994 - Tales From The Thousand Lakes/13 - Moon And Sun Part II North's Son.mp3
+59:Amorphis /1994 - Tales From The Thousand Lakes/14 - Light My Fire.mp3
+playlist_end

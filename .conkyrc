@@ -1,0 +1,11 @@
+out_to_console yes
+out_to_x no
+short_units yes
+update_interval 1
+use_spacer left
+
+TEXT
+
+MPD  $mpd_title - $mpd_artist $mpd_elapsed / $mpd_length :: CPU ${cpu}% (${freq_g} GHz) ::  MEM  ${mem} :: WLAN  ${addr wlan0}  :: BAT  ${battery_short} :: TIME  ${time %e %B %G %H:%M:%S}
+
+
