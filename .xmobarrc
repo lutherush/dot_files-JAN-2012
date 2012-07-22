@@ -9,11 +9,11 @@ Config { font = "-misc-fixed-*-*-*-*-10-*-*-*-*-*-*-*"
                     , Run Swap [] 10
                     , Run Com "uname" ["-s","-r"] "" 36000
                     , Run Date "%a %b %_d %Y %H:%M:%S" "date" 10
-                    , Run GMail "velimir.baksa" "Mroci10yo" ["-t", "Mail: <count>"] 3000
+                    , Run GMail "ajdemi.popushi@gmail.com" "mypasword" ["-t", "Mail: <count>"] 3000
                     , Run StdinReader
                     ]
        , sepChar = "%"
        , alignSep = "}{"
-       , template =  "%StdinReader% | %cpu% | %memory% * %swap% | %wlan0%  }{ <fc=#ee9a00>%date%</fc>| %uname% | %velimir.baksa%"
+       , template =  "%StdinReader% | %cpu% | %memory% * %swap% | %wlan0%  }{ <fc=#ee9a00>%date%</fc>| %uname% | %ajdemi.popushi@gmail.com%"
        }
 
